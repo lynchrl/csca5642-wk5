@@ -29,5 +29,5 @@ Canonical model architectures with robust regularization and random initializati
 
 # Project References
 
-* Local notebook: xxx
-* Kaggle notebook: yyy
+* Local GitHub notebook: xxx
+* Kaggle notebook: https://www.kaggle.com/code/lynchrl/week-5-gan-mini-project-final-execution
